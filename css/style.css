@@ -1,0 +1,16 @@
+body
+{
+	margin:0;
+	padding:0;
+	background:url("../img/bg1.png");
+}
+.navbar-default
+{
+	//background:#777;
+	border :none;
+	border-radius:0;
+}
+.right
+{
+	padding-top:6%;
+}
